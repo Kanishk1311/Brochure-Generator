@@ -24,7 +24,7 @@ The **Brochure Generator** is an AI-powered tool designed to automate the creati
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/brochure-generator.git
+   git clone https://github.com/Kanishk1311/Brochure-Generator
    cd brochure-generator
    ```
 2. Install dependencies:
